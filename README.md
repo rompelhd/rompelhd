@@ -1,7 +1,7 @@
 # Hi there! I'm Rompelhd <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">
 
 ### About
-- 🦾 I’m a fullstack software developer
+- 🦾 I’m a hacker and software developer
 - 🏠 I'm based in Gijon, Spain
 - 🤔 My working preference? Python or C++ projects 🤓
 - 🤖 I’m always working on something...</a>
@@ -30,7 +30,7 @@
 <div align="center">
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://es.wikipedia.org/wiki/Bash" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/1920px-Gnu-bash-logo.svg.png" alt="Bash " height="50" /></a>
+<a href="https://es.wikipedia.org/wiki/Bash" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/1920px-Gnu-bash-logo.svg.png" alt="Bash" height="50" /></a>
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a> 
 </div>
 </td></tr></table>
