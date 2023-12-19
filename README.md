@@ -2,7 +2,7 @@
 
 ### About
 - 🦾 I’m a hacker and software developer
-- 🏠 I'm based in Gijon, Spain
+- 🏠 I'm based in Gijón, Spain
 - 🤔 My working preference? Python or C++ projects 🤓
 - 🤖 I’m always working on something...</a>
 
