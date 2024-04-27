@@ -1,22 +1,24 @@
 # Hi there! I'm Rompelhd <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">
 
-### About
+### <b>About</b>
 - 🦾 I’m a hacker and software developer
 - 🏠 I'm based in Gijón, Spain
 - 🤔 My working preference? Python or C++ projects 🤓
 - 🤖 I’m always working on something...</a>
 
+<br />
 
-### Working rn:
+### <b>Working rn:</b>
 - [Etree](https://github.com/rompelhd/Etree)
 - [SSHSS](https://github.com/rompelhd/SSHSS)
-<br>
+
+<br />
 
 ### <b>⚙️ My Stack</b>
 
 <table><tr><td valign="top" width="33%">
   
-### Backend
+### <b>Backend</b>
 <div align="center">
 <a href="https://es.wikipedia.org/wiki/C%2B%2B" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="C++" height="50" /></a> 
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="Python" height="50" /></a>  
@@ -26,7 +28,7 @@
 
 </td><td valign="top" width="33%">
 
-### DevOps
+### <b>DevOps</b>
 <div align="center">
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
@@ -36,17 +38,20 @@
 </div>
 </td></tr></table>
 
-<br>
+<br />
 
-### Statistics
+### <b>📊 Statistics</b>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=rompelhd&count_private=true&show_icons=true&theme=dark&borde_radius=50)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rompelhd&count_private=true&show_icons=true&theme=dark&borde_radius=50" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rompelhd&layout=compact&theme=dark" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rompelhd&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<br />
 
-<br>
-
-### 📫 How to reach me :
+### <b>📫 How to reach me :</b>
 
 <p align="center">
     <a href="mailto:rompelxd@gmail.com">
