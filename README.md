@@ -16,7 +16,7 @@
 
 ### <b>⚙️ Languages and Tools 🧰</b>
 
-[![My Skills](https://skillicons.dev/icons?i=py,lua,c,cpp,bash,bootstrap,django,flask,docker,github,linux,md,vim,neovim,vscode,raspberrypi,&theme=dark&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,lua,c,cpp,bash,bootstrap,django,flask,docker,github,linux,md,vim,neovim,vscode,raspberrypi,&theme=dark&perline=8)](https://skillicons.dev)
 
 <br/>
 
