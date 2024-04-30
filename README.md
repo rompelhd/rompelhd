@@ -18,8 +18,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,lua,c,cpp,bash,bootstrap,django,flask,docker,github,linux,md,vim,neovim,vscode,raspberrypi,&theme=dark&perline=8)](https://skillicons.dev)
 
-<br/>
-
 ### <b>📊 Statistics:</b>
 
 ![views](https://komarev.com/ghpvc/?username=rompelhd&style=flat-square)
