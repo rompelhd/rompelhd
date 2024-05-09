@@ -10,6 +10,7 @@
 
 ### <b>👨‍💻 Working rn:</b>
 - [Etree](https://github.com/rompelhd/Etree)
+- [Chrootux](https://github.com/rompelhd/Chrootux)
 - [SSHSS](https://github.com/rompelhd/SSHSS)
 
 <br/>
