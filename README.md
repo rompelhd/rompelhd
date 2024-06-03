@@ -13,6 +13,8 @@
 - [Chrootux](https://github.com/rompelhd/Chrootux)
 - [SSHSS](https://github.com/rompelhd/SSHSS)
 
+[TermuxRootMods](https://github.com/rompelhd/TermuxRootMods)
+
 <br/>
 
 ### <b>⚙️ Languages and Tools 🧰</b>
