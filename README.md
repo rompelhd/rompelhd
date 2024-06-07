@@ -1,4 +1,4 @@
-# Hi there! I'm Rompelhd <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=HackNerdFont&weight=500&size=40&duration=4000&pause=1000&color=0BF700&random=false&width=800&height=80&lines=Hey..+I'm+rompelhd+%F0%9F%A5%B5;This+is+my+Github;Running+%2Fbin%2Fbash+2%3E%2Fdev%2Fnull;nmap+-Pn+-sV+-p+1-1024+8.8.8.8)](https://git.io/typing-svg)
 
 ### <b>About</b>
 - 🦾 I’m a hacker and software developer
