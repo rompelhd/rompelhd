@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=HackNerdFont&weight=500&size=40&duration=4000&pause=1000&color=0BF700&vCenter=true&random=false&width=800&height=80&lines=Hey..+I'm+rompelhd+%F0%9F%A5%B5;This+is+my+Github;Running+%2Fbin%2Fbash+2%3E%2Fdev%2Fnull;nmap+-Pn+-sV+-p+1-1024+8.8.8.8)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=HackNerdFont&weight=500&size=40&duration=3000&pause=700&color=0BF700&vCenter=true&random=false&width=1000&height=40&lines=Hello%2C+welcome.+Are+you+rompelhd%3F;Identification+failed+...;Initiating+port+scanning+...;nmap+-Pn+-sV+-p+1-1024+%24goal+%3E+%2Flog+2%3E%261;Fatal+error%2C+this+issue+will+be+reported)](https://git.io/typing-svg)
 
 ### <b>About</b>
 - 🦾 I’m a hacker and software developer
