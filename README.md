@@ -25,12 +25,32 @@
 
 ![views](https://komarev.com/ghpvc/?username=rompelhd&style=flat-square)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rompelhd&count_private=true&show_icons=true&theme=dark&borde_radius=50" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rompelhd&layout=compact&theme=dark" />
-</a>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=rompelhd&count_private=true&show_icons=true&theme=dark&hide_border=true&border_radius=50" width="400" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rompelhd&layout=compact&theme=dark&hide_border=true&border_radius=50" width="400" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rompelhd&theme=dark&hide_border=true&border_radius=50" alt="Rompelhd's GitHub Stats" width="400" />
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rompelhd&theme=dark&utcOffset=8&hide_border=true&border_radius=50" width="400" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rompelhd&repo=Etree&theme=dark&hide_border=true&border_radius=50" width="400" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rompelhd&repo=Chrootux&theme=dark&hide_border=true&border_radius=50" width="400" />
+    </td>
+  </tr>
+</table>
 
 ### <br> <br> <b>📫 How to reach me :</b>
 
