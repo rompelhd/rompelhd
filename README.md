@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rompelhd&repo=Etree&theme=dark&hide_border=true&border_radius=50" width="400" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rompelhd&repo=TermuxRootMods&theme=dark&hide_border=true&border_radius=50" width="400" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=rompelhd&repo=Chrootux&theme=dark&hide_border=true&border_radius=50" width="400" />
