@@ -1,3 +1,8 @@
+
+> 💖 **If U Want**: [<img src="https://img.shields.io/badge/💰%20Donate-PayPal-blue.svg?logo=paypal" alt="Donate with PayPal" height="28"/>](https://www.paypal.me/RompelhdYT)
+
+> *Donations are not required, but I deeply appreciate everyone who chooses to support. Your contributions make it possible for me to continue my work and improve it. Thank you for your trust and support! 🙏*
+
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=HackNerdFont&weight=500&size=40&duration=3000&pause=700&color=0BF700&vCenter=true&random=false&width=1000&height=40&lines=Hello%2C+welcome.+Are+you+rompelhd%3F;Authentication+failed%2C+user+unidentified.;Initiating+port+scanning+...;nmap+-Pn+-sV+-p+1-1024+%24goal+%3E+%2Flog+2%3E%261;Fatal+error%2C+this+issue+will+be+reported.)](https://git.io/typing-svg)
 
 ### <b>About</b>
